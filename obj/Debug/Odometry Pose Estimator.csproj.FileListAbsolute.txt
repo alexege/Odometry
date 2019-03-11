@@ -1,0 +1,7 @@
+C:\Users\alexe\source\repos\Odometry Pose Estimator\obj\Debug\Odometry Pose Estimator.csprojAssemblyReference.cache
+C:\Users\alexe\source\repos\Odometry Pose Estimator\obj\Debug\Odometry Pose Estimator.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Odometry Pose Estimator\bin\Debug\Odometry Pose Estimator.exe.config
+C:\Users\alexe\source\repos\Odometry Pose Estimator\bin\Debug\Odometry Pose Estimator.exe
+C:\Users\alexe\source\repos\Odometry Pose Estimator\bin\Debug\Odometry Pose Estimator.pdb
+C:\Users\alexe\source\repos\Odometry Pose Estimator\obj\Debug\Odometry Pose Estimator.exe
+C:\Users\alexe\source\repos\Odometry Pose Estimator\obj\Debug\Odometry Pose Estimator.pdb
